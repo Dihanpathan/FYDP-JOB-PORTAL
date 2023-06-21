@@ -1,0 +1,32 @@
+.secondary-card-content{
+    border: 0.5px solid rgb(0, 0, 0,.2);
+    padding: 40px 30px;
+    transition: .3s;
+    cursor: pointer;
+    height: 100%;
+}
+.secondary-card-content:hover{
+    border: none;
+    background: #226CF1;
+}
+.secondary-text h4{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+}
+
+.secondary-text p{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(0, 0, 0,.6);  
+}
+
+.secondary-card-content:hover h4{
+    color: white;
+}
+.secondary-card-content:hover p{
+    color: white;
+}

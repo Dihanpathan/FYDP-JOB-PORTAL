@@ -1,0 +1,67 @@
+.job-card-content {
+  font-family: "Open Sans";
+  padding: 50px 50px 20px 50px;
+  border: 1px solid rgb(0, 0, 0,.2);
+  margin-bottom: 30px;
+}
+.job-card-content .card-heading {
+  margin-top: 25px;
+}
+.job-card-content .card-heading h2 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.job-card-content .card-heading .via {
+  font-size: 13px;
+  font-weight: 400;
+  color: rgb(0, 0, 0, 0.8);
+}
+.job-card-content .card-heading .via .inner-via {
+  color: #226cf1;
+}
+.card-middle-info {
+  text-align: center;
+  padding: 30px 0px 20px 0px;
+  border-bottom: .5px solid rgb(0, 0, 0,.2);
+}
+.card-middle-info .card-address .upper-address {
+  margin-bottom: 10px;
+}
+.card-middle-info .card-address .upper-address > span {
+  margin-right: 16px;
+}
+.card-middle-info .card-address .job-type {
+  margin-top: 10px;
+}
+.card-middle-info .card-address span {
+  font-size: 13px;
+  color: rgb(0, 0, 0, 0.6);
+}
+.card-info-bottom{
+  padding-top: 20px;
+}
+.card-info-bottom svg{
+  color: #226cf1;
+  margin-right: 5px;
+}
+.card-info-bottom .svg-2 svg{
+  color: rgb(0, 0, 0, 0.6);
+  padding: 6px;
+  border: 1px solid rgb(0, 0, 0,.2);
+  border-radius: 50%;
+}
+.card-info-bottom span {
+  font-size: 13px;
+  color: rgb(0, 0, 0, 0.6);
+}
+.card-address span svg {
+  color: #226cf1;
+  margin-right: 5px;
+}
+.card-hover{
+  transition: .3s;
+}
+.card-hover:hover{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}

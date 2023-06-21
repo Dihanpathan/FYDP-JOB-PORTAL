@@ -1,0 +1,14 @@
+.buy-package-area{
+    padding: 100px 0px;
+}
+.buy-package-text h2{
+    font-size: 36px;
+    font-family: "Open Sans";
+    font-weight: 600;
+}
+.buy-package-text p{
+    font-family: "Open Sans";
+    line-height: 26px;
+    color: rgb(0, 0, 0,.6);
+    margin-top: 20px;
+}
